@@ -1,6 +1,6 @@
 # jingle_shop
 
-Amazon clone application built with flutter + firebase + Node.js
+Jingle Shop, an E-commerce android application developed with flutter + mongodb + nodeJs
 
 ## Getting Started
 
